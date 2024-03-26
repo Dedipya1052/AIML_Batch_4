@@ -10,7 +10,7 @@
 
 [https://github.com/Dedipya1052/AIML_Batch_4/blob/main/AIML_Assignment-6.ipynb]
 
-
+[https://github.com/Dedipya1052/AIML_Batch_4/blob/main/AIML_Assignment-7.ipynb]
 
 [https://github.com/Dedipya1052/AIML_Batch_4/blob/main/assignment1..1.ipynb]
 [https://github.com/Dedipya1052/AIML_Batch_4/blob/main/assignment1.2.ipynb]
